@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	pinterest "github.com/carrot/go-pinterest"
-	"github.com/carrot/go-pinterest/controllers"
-	"github.com/carrot/go-pinterest/models"
+	"github.com/Igor1201/go-pinterest"
+	"github.com/Igor1201/go-pinterest/controllers"
+	"github.com/Igor1201/go-pinterest/controllers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 )
