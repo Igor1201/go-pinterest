@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/BrandonRomano/wrecker"
-	"github.com/Igor1201/go-pinterest/models"
+	"gopkg.in/Igor1201/go-pinterest.v0/models"
 )
 
 // MeController is the controller that is responsible for all

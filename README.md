@@ -8,10 +8,10 @@ To create a simple Pinterest client:
 
 ```go
 import(
-    "github.com/Igor1201/go-pinterest"
+    "gopkg.in/Igor1201/go-pinterest.v0"
     // Below imports aren't needed immediately, but you'll want these soon after
-	"github.com/Igor1201/go-pinterest/controllers"
-	"github.com/Igor1201/go-pinterest/models"
+	"gopkg.in/Igor1201/go-pinterest.v0/controllers"
+	"gopkg.in/Igor1201/go-pinterest.v0/models"
 )
 
 func main() {
@@ -23,10 +23,10 @@ To create an authenticated Pinterest client you can just chain the `RegisterAcce
 
 ```go
 import(
-    pinterest "github.com/Igor1201/go-pinterest"
+    pinterest "gopkg.in/Igor1201/go-pinterest.v0"
     // Below imports aren't needed immediately, but you'll want these soon after
-	"github.com/Igor1201/go-pinterest/controllers"
-	"github.com/Igor1201/go-pinterest/models"
+	"gopkg.in/Igor1201/go-pinterest.v0/controllers"
+	"gopkg.in/Igor1201/go-pinterest.v0/models"
 )
 
 func main() {
